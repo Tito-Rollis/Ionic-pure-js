@@ -1,0 +1,15 @@
+.grid-header::after {
+    background-image: none;
+}
+
+.grid-toolbar {
+    border-radius: 0px 0px 16px 16px;
+}
+
+ion-title {
+    color: white;
+}
+
+ion-col {
+    border: 2px solid lightseagreen;
+}
